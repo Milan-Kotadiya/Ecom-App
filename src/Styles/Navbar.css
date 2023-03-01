@@ -1,0 +1,26 @@
+.navbarhalf{
+    width: 50%;
+}
+.mainnav{
+    font-size: 1.25rem;
+    padding: 0% 4%;
+}
+.navbartitle{
+    font-size: 1.5rem;
+    font-weight:bolder;
+}
+.nav-item{
+    color: black;
+}
+.plus{
+    font-size: 1.5rem;
+    padding: 0% 0.5rem;
+}
+.profile{
+    height: 50px;
+    width: 50px;
+}
+.navbardropdown{
+    border: none;
+    background-color: transparent;
+}
